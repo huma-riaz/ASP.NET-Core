@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Razor.Compilation;
 
 namespace FirstProject.Controllers 
 {
@@ -13,6 +14,17 @@ namespace FirstProject.Controllers
         {
             return View();
         }
+
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        public string Details(string id)
+        {
+            return id;
+        }
+
 
 
 

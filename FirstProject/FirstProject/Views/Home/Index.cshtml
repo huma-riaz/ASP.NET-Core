@@ -1,1 +1,41 @@
 ﻿<h2>From View Index</h2>
+
+
+@{
+	var std = "Huma Riaz";
+	var status = true;
+}
+
+<h3>My name is @std </h3>
+
+
+<h3>Today is @DateTime.Now</h3>
+
+
+@if (status) {
+	<h3>It is true</h3>
+}else
+{
+	<h3>It is false</h3>
+}
+
+
+@{
+	string[] stds = { "Huma ", "Hassan ", "Bilal " };
+}
+@* @for(int i=0; i<=10; i++)
+{
+	<h3>@i</h3>
+} *@
+
+@foreach(var myname in stds)
+{
+	<li>@myname</li>
+}
+
+
+@{
+	var name = "Huma Riaz ";
+	var batch = "PR2-2024-06E ";
+}
+<h3> Name is @name and batch is @batch </h3>
