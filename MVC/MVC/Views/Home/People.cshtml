@@ -1,0 +1,15 @@
+﻿
+@model List<Student>
+
+<h2>People Page</h2>
+
+<ol>
+@foreach(var people in Model)
+{
+	<li>@people.Name</li>
+	<li>@people.Email</li>
+	<hr />
+
+}
+</ol>
+

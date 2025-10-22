@@ -1,0 +1,27 @@
+﻿
+<h2> Students Detail </h2>
+
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach( var std in ViewBag.stds)
+        {
+            <tr>
+                <td>@std.ID</td>
+                <td>@std.Name</td>
+                <td>@std.Email</td>
+            </tr>
+        }
+
+        </tbody>
+    </table>
+
+
