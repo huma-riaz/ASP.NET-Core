@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{553AB435-AE6C-4E1B-936D-6A0696ECCE4B}|MVC\\MVC.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\mvc\\mvc\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{553AB435-AE6C-4E1B-936D-6A0696ECCE4B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{553AB435-AE6C-4E1B-936D-6A0696ECCE4B}|MVC\\MVC.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\mvc\\mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{553AB435-AE6C-4E1B-936D-6A0696ECCE4B}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{553AB435-AE6C-4E1B-936D-6A0696ECCE4B}|MVC\\MVC.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\mvc\\mvc\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{553AB435-AE6C-4E1B-936D-6A0696ECCE4B}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{553AB435-AE6C-4E1B-936D-6A0696ECCE4B}|MVC\\MVC.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\mvc\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,34 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\MVC\\MVC\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "MVC\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\MVC\\MVC\\Models\\Student.cs",
-              "RelativeToolTip": "MVC\\Models\\Student.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA3wAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T17:13:39.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\MVC\\MVC\\Views\\Home\\Add.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\MVC\\MVC\\Views\\Home\\Add.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Home\\Add.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-22T18:01:30.204Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -58,9 +32,35 @@
               "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\MVC\\MVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAmwDsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:08:29.377Z",
+              "WhenOpened": "2025-10-24T17:43:21.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\MVC\\MVC\\Views\\Home\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\MVC\\MVC\\Views\\Home\\Add.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Home\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T17:36:39.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\MVC\\MVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\MVC\\MVC\\Models\\Student.cs",
+              "RelativeToolTip": "MVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:33:26.896Z",
               "EditorCaption": ""
             }
           ]

@@ -61,9 +61,9 @@ public class HomeController : Controller
     }
 
     [HttpPost]
-    public Student Add(Student std)
+    public IActionResult Add(Student std)
     {
-        return std;
+        return View();
     }
 
 

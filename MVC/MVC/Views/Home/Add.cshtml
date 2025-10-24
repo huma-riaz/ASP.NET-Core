@@ -5,16 +5,23 @@
 <form method= "POST" asp-action="Add" asp-controller="Home">
           
             <label for="name" class="form-label">Name</label>
-            <input class="form-control" asp-for="Name" /> </br>
+            <input class="form-control" asp-for="Name" /> 
+            <span asp-validation-for="Name" class="text-danger"></span>  </br>
           
             <label for="email" class="form-label">Email</label>
             <input class="form-control" asp-for="Email" /> <br />
+
+            <label for="password" class="form-label">Password</label>
+            <input class="form-control" asp-for="Password" /> <br />
+
+            <label for="age" class="form-label">Age</label>
+            <input class="form-control" asp-for="Age" /> <br />
 
             <label for="course" class="form-label">Course</label>   </br>
 
             <select class="form-control" asp-items="Html.GetEnumSelectList<Courses>()">
                 <option>Select Course</option>
-            </select>
+            </select>  </br>
           
           <button type="submit" class="btn btn-primary">Submit</button>  <br />
         </form>
