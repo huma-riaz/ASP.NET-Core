@@ -2,13 +2,19 @@
 @model Student
 <h2>Add Student </h2>
 
-<form method= "POST" asp-action="" asp-controller="">
+<form method= "POST" asp-action="Add" asp-controller="Home">
           
             <label for="name" class="form-label">Name</label>
-            <input type="text" class="form-control" id="name">
+            <input class="form-control" asp-for="Name" /> </br>
           
-            <label for="email" class="form-label">Email address</label>
-            <input type="email" class="form-control" id="email">
+            <label for="email" class="form-label">Email</label>
+            <input class="form-control" asp-for="Email" /> <br />
+
+            <label for="course" class="form-label">Course</label>   </br>
+
+            <select class="form-control" asp-items="Html.GetEnumSelectList<Courses>()">
+                <option>Select Course</option>
+            </select>
           
-          <button type="submit" class="btn btn-primary">Submit</button>
+          <button type="submit" class="btn btn-primary">Submit</button>  <br />
         </form>

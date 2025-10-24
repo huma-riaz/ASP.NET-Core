@@ -60,6 +60,14 @@ public class HomeController : Controller
         return View();
     }
 
+    [HttpPost]
+    public Student Add(Student std)
+    {
+        return std;
+    }
+
+
+
 
 
 

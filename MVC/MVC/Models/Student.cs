@@ -6,4 +6,9 @@
         public string Name { get; set; }
         public string? Email { get; set; }
     }
+
+    public enum Courses
+    {
+        Medical, Engeneering, Science, Arts
+    }
 }
