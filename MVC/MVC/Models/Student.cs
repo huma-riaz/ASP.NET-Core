@@ -5,6 +5,7 @@ namespace MVC.Models
     public class Student
     {
         public int ID { get; set; }
+
         [Required(ErrorMessage = "Name is required")]
         [MinLength(3, ErrorMessage = "Min length is 3")]
         [MaxLength(20, ErrorMessage = "Max length is 20")]
