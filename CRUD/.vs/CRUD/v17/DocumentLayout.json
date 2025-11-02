@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\crud\\crud\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\crud\\crud\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\crud\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\crud\\crud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\crud\\crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\crud\\crud\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\crud\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9E2E5C2-64F2-4A8B-9584-606B7F5109E1}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +42,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAALIAAAAAAAAAAAAUwL8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T14:51:25.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T14:49:22.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:49:07.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Program.cs",
               "RelativeDocumentMoniker": "CRUD\\Program.cs",
@@ -42,12 +91,11 @@
               "RelativeToolTip": "CRUD\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T18:02:57.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T18:02:57.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CRUD\\Views\\Shared\\_Layout.cshtml",
@@ -55,38 +103,35 @@
               "RelativeToolTip": "CRUD\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-30T17:43:01.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T17:43:01.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "CRUD\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeToolTip": "CRUD\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAANsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-30T17:15:17.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T17:15:17.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUD\\Views\\Admin\\Index.cshtml",
               "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Views\\Admin\\Index.cshtml",
               "RelativeToolTip": "CRUD\\Views\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-30T16:50:47.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T16:50:47.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\CRUD\\CRUD\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "CRUD\\Controllers\\AdminController.cs",
@@ -94,8 +139,7 @@
               "RelativeToolTip": "CRUD\\Controllers\\AdminController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T16:49:06.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T16:49:06.231Z"
             }
           ]
         }
