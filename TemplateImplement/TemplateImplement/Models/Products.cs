@@ -8,7 +8,6 @@ namespace TemplateImplement.Models
         [Key]
         public Guid ID { get; set; }
 
-
         [Column("prod_name",TypeName ="Varchar(100)")]
         public string Name { get; set; }
 
@@ -19,6 +18,7 @@ namespace TemplateImplement.Models
 
         [Column("prod_price", TypeName = "decimal")]
         public decimal Price { get; set; }
+
 
         [Column("prod_stock")]
         public int Stock { get; set; }

@@ -20,6 +20,18 @@ namespace TemplateImplement.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public IActionResult Add(Products prod)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.tbl_products.Add(prod);
+                _context.SaveChanges();
+                TempData["success"] = "Product added successfully";
+                return RedirectToAction("Index", "Product");
+            }
+            return View(prod);
+        }
 
 
     }
