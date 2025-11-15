@@ -49,9 +49,11 @@
                                         </td>
 
                                         <td>
-                                            <div class="badge badge-success">Active</div>
+                                                   <a class="btn btn-warning">View</a>
+                                            <a class="btn btn-success" asp-controller="Product" asp-action="Edit" asp-route-id="@item.ID">Edit</a>
+                                            <a class="btn btn-danger" asp-controller="Product" asp-action="Delete" asp-route-id="@item.ID" onclick="return confirm('Are you sure ?')">Delete</a>
+
                                         </td>
-                                        <td><a href="#" class="btn btn-primary">Detail</a></td>
                                     </tr>
                                     count++;
                                 }   

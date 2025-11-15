@@ -11,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{4975ABBC-1D1B-4649-AEAC-61F82D44FBE8}|TemplateImplement\\TemplateImplement.csproj|solutionrelative:templateimplement\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4975ABBC-1D1B-4649-AEAC-61F82D44FBE8}|TemplateImplement\\TemplateImplement.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\templateimplement\\templateimplement\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4975ABBC-1D1B-4649-AEAC-61F82D44FBE8}|TemplateImplement\\TemplateImplement.csproj|solutionrelative:templateimplement\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4975ABBC-1D1B-4649-AEAC-61F82D44FBE8}|TemplateImplement\\TemplateImplement.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\templateimplement\\templateimplement\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4975ABBC-1D1B-4649-AEAC-61F82D44FBE8}|TemplateImplement\\TemplateImplement.csproj|solutionrelative:templateimplement\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4975ABBC-1D1B-4649-AEAC-61F82D44FBE8}|TemplateImplement\\TemplateImplement.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\templateimplement\\templateimplement\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4975ABBC-1D1B-4649-AEAC-61F82D44FBE8}|TemplateImplement\\TemplateImplement.csproj|solutionrelative:templateimplement\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4975ABBC-1D1B-4649-AEAC-61F82D44FBE8}|TemplateImplement\\TemplateImplement.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\templateimplement\\templateimplement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4975ABBC-1D1B-4649-AEAC-61F82D44FBE8}|TemplateImplement\\TemplateImplement.csproj|solutionrelative:templateimplement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,30 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TemplateImplement\\TemplateImplement\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TemplateImplement\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TemplateImplement\\TemplateImplement\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "TemplateImplement\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T15:51:31.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Products.cs",
               "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TemplateImplement\\TemplateImplement\\Models\\Products.cs",
               "RelativeDocumentMoniker": "TemplateImplement\\Models\\Products.cs",
               "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TemplateImplement\\TemplateImplement\\Models\\Products.cs",
               "RelativeToolTip": "TemplateImplement\\Models\\Products.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T11:05:51.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TemplateImplement\\TemplateImplement\\Views\\Product\\Add.cshtml",
               "RelativeDocumentMoniker": "TemplateImplement\\Views\\Product\\Add.cshtml",
               "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TemplateImplement\\TemplateImplement\\Views\\Product\\Add.cshtml",
               "RelativeToolTip": "TemplateImplement\\Views\\Product\\Add.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBsAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-14T16:30:37.551Z",
               "EditorCaption": ""
@@ -62,7 +79,7 @@
               "RelativeDocumentMoniker": "TemplateImplement\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TemplateImplement\\TemplateImplement\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "TemplateImplement\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAACZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-10T16:50:58.43Z",
               "EditorCaption": ""
@@ -75,7 +92,7 @@
               "RelativeDocumentMoniker": "TemplateImplement\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TemplateImplement\\TemplateImplement\\Controllers\\ProductController.cs",
               "RelativeToolTip": "TemplateImplement\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwCAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T16:45:15.356Z",
               "EditorCaption": ""

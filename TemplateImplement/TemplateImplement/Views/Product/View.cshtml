@@ -1,0 +1,24 @@
+﻿@{
+    @model Products 
+    Layout = "~/Views/Shared/LayoutAdmin.cshtml";
+}
+
+<div class="row">
+              <div class="col-12 col-md-12 col-lg-12">
+                <div class="card">
+                  <div class="card-header">
+                    <h4>Product Details</h4>
+                  </div>
+                  <div class="card-body">
+                      <h2>@Model.Name</h2>
+                      <ul>
+                          <li>Price: @Model.Price</li>
+                          <li>Stock: @Model.Stock</li>
+
+                      </ul>
+                      
+                  </div>
+                </div>
+
+              </div>
+

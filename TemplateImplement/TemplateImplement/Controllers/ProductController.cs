@@ -33,6 +33,35 @@ namespace TemplateImplement.Controllers
             return View(prod);
         }
 
+        public IActionResult Edit(Guid id)
+        {
+            var products = _context.tbl_products.Find(id);
+            return View(products);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Products prod)
+        {
+            _context.tbl_products.Update(prod);
+            _context.SaveChanges();
+            return RedirectToAction("Index", "Product");
+        }
+
+        public IActionResult Delete(Guid ID)
+        {
+            var prod = _context.tbl_products.Find(ID);
+            _context.tbl_products.Remove(prod);
+            _context.SaveChanges();
+            return RedirectToAction("Index", "Product");
+           // return View(); 
+        }
+
+        public IActionResult View(Guid ID)
+        {
+            var product = _context.tbl_products.Find(ID);
+            return View();
+        }
+        
 
     }
 }
