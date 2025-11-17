@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemplateImplement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1d9883fc1b8e0fda619ba3c2edbe47319d91654")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17c4a9438444e16aa6a73d6ac396dd3a1a9659b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemplateImplement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemplateImplement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

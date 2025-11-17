@@ -49,7 +49,7 @@
                                         </td>
 
                                         <td>
-                                                   <a class="btn btn-warning">View</a>
+                                            <a class="btn btn-warning" asp-controller="Product" asp-action="View" asp-route-id="@item.ID">View</a>
                                             <a class="btn btn-success" asp-controller="Product" asp-action="Edit" asp-route-id="@item.ID">Edit</a>
                                             <a class="btn btn-danger" asp-controller="Product" asp-action="Delete" asp-route-id="@item.ID" onclick="return confirm('Are you sure ?')">Delete</a>
 

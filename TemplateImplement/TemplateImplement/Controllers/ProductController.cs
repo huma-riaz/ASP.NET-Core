@@ -59,7 +59,7 @@ namespace TemplateImplement.Controllers
         public IActionResult View(Guid ID)
         {
             var product = _context.tbl_products.Find(ID);
-            return View();
+            return View(product);
         }
         
 
