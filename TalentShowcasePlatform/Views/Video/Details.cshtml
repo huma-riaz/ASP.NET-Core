@@ -1,0 +1,10 @@
+﻿@model TalentShowcasePlatform.Models.Video
+
+<h2>@Model.Title</h2>
+
+<video width="100%" controls>
+    <source src="@Model.Url" type="video/mp4" />
+</video>
+
+<p>@Model.Description</p>
+<p>Category: @Model.Category</p>
