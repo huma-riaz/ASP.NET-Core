@@ -1,13 +1,15 @@
 ﻿@model TalentShowcasePlatform.Models.VideoUpload
 
-<h2>Upload Video</h2>
+<h2>Upload Video</h2> <br />
+
 
 <form method="post" enctype="multipart/form-data">
     <label>Title</label>
-    <input asp-for="Title" class="form-control" />
+    <input asp-for="Title" class="form-control" /> <br />
 
     <label>Description</label>
-    <textarea asp-for="Description" class="form-control"></textarea>
+    <textarea asp-for="Description" class="form-control"></textarea> <br />
+
 
     <label>Category</label>
     <select asp-for="Category" class="form-control">
@@ -15,10 +17,12 @@
         {
                 <option>@c</option>
         }
-    </select>
+    </select> <br />
+
 
     <label>Video File</label>
-    <input asp-for="File" type="file" class="form-control" />
+    <input asp-for="File" type="file" class="form-control" /> <br />
+
 
     <button class="btn btn-primary mt-2">Upload</button>
 </form>

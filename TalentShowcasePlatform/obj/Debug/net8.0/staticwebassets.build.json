@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4ssZIAL5OSh/hmJZ34fGlfaK488Zm5Ms3i8ira/DHZ8=",
+  "Hash": "GyVz5BXh8b5hNJLwt2LW2UnLjD4kggdrU5HGO2HJQG8=",
   "Source": "TalentShowcasePlatform",
   "BasePath": "_content/TalentShowcasePlatform",
   "Mode": "Default",
@@ -1317,6 +1317,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\a3d01bad-b988-476e-bb4a-baf219a8888f.jpg",
+      "SourceId": "TalentShowcasePlatform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\",
+      "BasePath": "_content/TalentShowcasePlatform",
+      "RelativePath": "videos/a3d01bad-b988-476e-bb4a-baf219a8888f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "clyqmzughv",
+      "Integrity": "YKzPf0aoec/k+ds+A6r4kRb8faHgSd0ijGTxRZeOufU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\a3d01bad-b988-476e-bb4a-baf219a8888f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\dbe02f2a-e936-4081-bccc-60a9b9d5a4c0.jpg",
+      "SourceId": "TalentShowcasePlatform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\",
+      "BasePath": "_content/TalentShowcasePlatform",
+      "RelativePath": "videos/dbe02f2a-e936-4081-bccc-60a9b9d5a4c0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4wn5xcd8i1",
+      "Integrity": "zLYCE7oOiPG6pSiw9zOA4xtILv/FuVxTAyq90A6vvNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\dbe02f2a-e936-4081-bccc-60a9b9d5a4c0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\e4049fbf-fc53-44d3-a532-eb871a02c33b.jpg",
+      "SourceId": "TalentShowcasePlatform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\",
+      "BasePath": "_content/TalentShowcasePlatform",
+      "RelativePath": "videos/e4049fbf-fc53-44d3-a532-eb871a02c33b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wu2olyirr8",
+      "Integrity": "iP6Pg4GyriDWDGWKjJpVzaQd+qv9JYxh+XwBw3Z8beI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\e4049fbf-fc53-44d3-a532-eb871a02c33b.jpg"
     }
   ],
   "Endpoints": [
@@ -6401,6 +6464,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-Anf7UjTe/4J4GGqDiDeRKUFKoLVvpfOnYutDvsMJmIU="
+        }
+      ]
+    },
+    {
+      "Route": "videos/a3d01bad-b988-476e-bb4a-baf219a8888f.clyqmzughv.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\a3d01bad-b988-476e-bb4a-baf219a8888f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96373"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YKzPf0aoec/k+ds+A6r4kRb8faHgSd0ijGTxRZeOufU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 10:15:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "clyqmzughv"
+        },
+        {
+          "Name": "label",
+          "Value": "videos/a3d01bad-b988-476e-bb4a-baf219a8888f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YKzPf0aoec/k+ds+A6r4kRb8faHgSd0ijGTxRZeOufU="
+        }
+      ]
+    },
+    {
+      "Route": "videos/a3d01bad-b988-476e-bb4a-baf219a8888f.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\a3d01bad-b988-476e-bb4a-baf219a8888f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96373"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YKzPf0aoec/k+ds+A6r4kRb8faHgSd0ijGTxRZeOufU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Nov 2025 10:15:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YKzPf0aoec/k+ds+A6r4kRb8faHgSd0ijGTxRZeOufU="
+        }
+      ]
+    },
+    {
+      "Route": "videos/dbe02f2a-e936-4081-bccc-60a9b9d5a4c0.4wn5xcd8i1.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\dbe02f2a-e936-4081-bccc-60a9b9d5a4c0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zLYCE7oOiPG6pSiw9zOA4xtILv/FuVxTAyq90A6vvNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 17:43:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4wn5xcd8i1"
+        },
+        {
+          "Name": "label",
+          "Value": "videos/dbe02f2a-e936-4081-bccc-60a9b9d5a4c0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zLYCE7oOiPG6pSiw9zOA4xtILv/FuVxTAyq90A6vvNQ="
+        }
+      ]
+    },
+    {
+      "Route": "videos/dbe02f2a-e936-4081-bccc-60a9b9d5a4c0.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\dbe02f2a-e936-4081-bccc-60a9b9d5a4c0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zLYCE7oOiPG6pSiw9zOA4xtILv/FuVxTAyq90A6vvNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 17:43:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zLYCE7oOiPG6pSiw9zOA4xtILv/FuVxTAyq90A6vvNQ="
+        }
+      ]
+    },
+    {
+      "Route": "videos/e4049fbf-fc53-44d3-a532-eb871a02c33b.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\e4049fbf-fc53-44d3-a532-eb871a02c33b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iP6Pg4GyriDWDGWKjJpVzaQd+qv9JYxh+XwBw3Z8beI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 17:19:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iP6Pg4GyriDWDGWKjJpVzaQd+qv9JYxh+XwBw3Z8beI="
+        }
+      ]
+    },
+    {
+      "Route": "videos/e4049fbf-fc53-44d3-a532-eb871a02c33b.wu2olyirr8.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\e4049fbf-fc53-44d3-a532-eb871a02c33b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "102392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iP6Pg4GyriDWDGWKjJpVzaQd+qv9JYxh+XwBw3Z8beI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Nov 2025 17:19:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wu2olyirr8"
+        },
+        {
+          "Name": "label",
+          "Value": "videos/e4049fbf-fc53-44d3-a532-eb871a02c33b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iP6Pg4GyriDWDGWKjJpVzaQd+qv9JYxh+XwBw3Z8beI="
         }
       ]
     }

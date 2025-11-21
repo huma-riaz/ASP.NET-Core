@@ -245,6 +245,18 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\a3d01bad-b988-476e-bb4a-baf219a8888f.jpg",
+      "PackagePath": "staticwebassets\\videos\\a3d01bad-b988-476e-bb4a-baf219a8888f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\dbe02f2a-e936-4081-bccc-60a9b9d5a4c0.jpg",
+      "PackagePath": "staticwebassets\\videos\\dbe02f2a-e936-4081-bccc-60a9b9d5a4c0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\e4049fbf-fc53-44d3-a532-eb871a02c33b.jpg",
+      "PackagePath": "staticwebassets\\videos\\e4049fbf-fc53-44d3-a532-eb871a02c33b.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TalentShowcasePlatform.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

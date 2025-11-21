@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Migrations\\20251119171222_LocalInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251119171222_LocalInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Migrations\\20251121103624_FixUserIdNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251121103624_FixUserIdNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\downloads\\talentshowcaseplatform\\models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\downloads\\talentshowcaseplatform\\views\\video\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:views\\video\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\downloads\\talentshowcaseplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\downloads\\talentshowcaseplatform\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\downloads\\talentshowcaseplatform\\views\\video\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:views\\video\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\downloads\\talentshowcaseplatform\\migrations\\20251119171222_localinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:migrations\\20251119171222_localinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +43,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20251119171222_LocalInit.cs",
-              "DocumentMoniker": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Migrations\\20251119171222_LocalInit.cs",
-              "RelativeDocumentMoniker": "Migrations\\20251119171222_LocalInit.cs",
-              "ToolTip": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Migrations\\20251119171222_LocalInit.cs",
-              "RelativeToolTip": "Migrations\\20251119171222_LocalInit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Title": "20251121103624_FixUserIdNullable.cs",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Migrations\\20251121103624_FixUserIdNullable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251121103624_FixUserIdNullable.cs",
+              "ToolTip": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Migrations\\20251121103624_FixUserIdNullable.cs",
+              "RelativeToolTip": "Migrations\\20251121103624_FixUserIdNullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T17:12:22.284Z",
+              "WhenOpened": "2025-11-21T10:36:25.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Views\\Video\\Upload.cshtml",
+              "RelativeDocumentMoniker": "Views\\Video\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Views\\Video\\Upload.cshtml",
+              "RelativeToolTip": "Views\\Video\\Upload.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-21T10:13:35.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Models\\Video.cs",
+              "RelativeDocumentMoniker": "Models\\Video.cs",
+              "ToolTip": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Models\\Video.cs",
+              "RelativeToolTip": "Models\\Video.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T18:01:42.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Views\\Video\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Video\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Views\\Video\\Details.cshtml",
+              "RelativeToolTip": "Views\\Video\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T18:00:13.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-19T16:54:08.9Z",
+              "WhenOpened": "2025-11-19T17:58:52.65Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-19T17:58:08.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251119171222_LocalInit.cs",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Migrations\\20251119171222_LocalInit.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251119171222_LocalInit.cs",
+              "ToolTip": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\Migrations\\20251119171222_LocalInit.cs",
+              "RelativeToolTip": "Migrations\\20251119171222_LocalInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:12:22.284Z"
             }
           ]
         }
