@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 using TalentShowcasePlatform.Data;
 using TalentShowcasePlatform.Models;
 
@@ -15,60 +17,82 @@ namespace TalentShowcasePlatform.Controllers
             _env = env;
         }
 
+        // GET: Upload Page
         public IActionResult Upload()
         {
-            ViewBag.Categories = new[] { "Music", "Dance", "Art", "Coding", "Comedy" };
+            ViewBag.Categories = new SelectList(_context.Categories, "Id", "Name");
             return View();
         }
 
+        // POST: Handle Upload with UploadVideo ViewModel
         [HttpPost]
-        public async Task<IActionResult> Upload(VideoUpload model)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Upload(UploadVideo model)
         {
+            // 1️⃣ Check form validation
             if (!ModelState.IsValid)
             {
-                ViewBag.Categories = new[] { "Music", "Dance", "Art", "Coding", "Comedy" };
+                ViewBag.Categories = new SelectList(_context.Categories, "Id", "Name", model.CategoryId);
                 return View(model);
             }
 
-            var folder = Path.Combine(_env.WebRootPath, "videos");
-            if (!Directory.Exists(folder))
-            {
-                Directory.CreateDirectory(folder);
-            }
+            // 2️⃣ Save file to wwwroot/videos
+            var uploadsFolder = Path.Combine(_env.WebRootPath, "videos");
+            if (!Directory.Exists(uploadsFolder))
+                Directory.CreateDirectory(uploadsFolder);
 
-            var fileName = Guid.NewGuid().ToString() + Path.GetExtension(model.File.FileName);
-            var filePath = Path.Combine(folder, fileName);
+            var fileName = Guid.NewGuid() + Path.GetExtension(model.VideoFile.FileName);
+            var filePath = Path.Combine(uploadsFolder, fileName);
 
             using (var stream = new FileStream(filePath, FileMode.Create))
             {
-                await model.File.CopyToAsync(stream);
+                await model.VideoFile.CopyToAsync(stream);
             }
 
+            // 3️⃣ Save video info to database using Video entity
             var video = new Video
             {
                 Title = model.Title,
                 Description = model.Description,
-                Category = model.Category,
-                Url = "/videos/" + fileName,
-                CreatedAt = DateTime.Now
+                CategoryId = model.CategoryId,
+                Url = $"/videos/{fileName}",
+                IsPublic = model.IsPublic,
+                CommentsAllowed = model.CommentsAllowed,
+                UploadDate = DateTime.UtcNow
             };
 
             _context.Videos.Add(video);
             await _context.SaveChangesAsync();
 
+            // 4️⃣ Redirect to List page
             return RedirectToAction("List");
         }
 
-        public IActionResult List()
+        // GET: List Videos
+        public async Task<IActionResult> List()
         {
-            var videos = _context.Videos.ToList();
+            var videos = await _context.Videos.Include(v => v.Category)
+                                              .OrderByDescending(v => v.UploadDate)
+                                              .ToListAsync();
             return View(videos);
         }
 
-        public IActionResult Details(int id)
+
+        public async Task<IActionResult> Details(int? id)
         {
-            var video = _context.Videos.Find(id);
+            if (id == null)
+                return NotFound();
+
+            var video = await _context.Videos
+                .Include(v => v.Category) // Category info load karne ke liye
+                .FirstOrDefaultAsync(v => v.Id == id);
+
+            if (video == null)
+                return NotFound();
+
             return View(video);
         }
+
+
     }
 }

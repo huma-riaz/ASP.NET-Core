@@ -1,20 +1,17 @@
 ﻿@model IEnumerable<TalentShowcasePlatform.Models.Video>
 
-<h2>All Videos</h2>
-
-<div class="row">
-    @foreach (var v in Model)
-    {
-        <div class="col-md-4 mb-4">
-            <div class="card">
-                <video width="100%" controls>
-                    <source src="@v.Url" type="video/mp4" />
-                </video>
-                <div class="card-body">
-                    <h5>@v.Title</h5>
-                    <a asp-action="Details" asp-route-id="@v.Id">Details</a>
-                </div>
-            </div>
+<h2>Videos</h2>
+@foreach (var v in Model)
+{
+        <div class="video-item">
+            <h4>@v.Title</h4>
+            <p>@v.Category?.Name</p>
+            <video width="320" height="240" controls>
+                <source src="@v.Url" type="video/mp4" />
+                Your browser does not support the video tag.
+            </video>
+            <p>@v.Description</p>
+            <p>Views: @v.Views | Likes: @v.Likes</p>
+            <a asp-action="Details" asp-route-id="@v.Id">Details</a>
         </div>
-    }
-</div>
+}

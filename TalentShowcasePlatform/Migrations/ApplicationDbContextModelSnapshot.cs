@@ -232,6 +232,24 @@ namespace TalentShowcasePlatform.Migrations
                     b.ToTable("AspNetUsers", (string)null);
                 });
 
+            modelBuilder.Entity("TalentShowcasePlatform.Models.Category", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Categories");
+                });
+
             modelBuilder.Entity("TalentShowcasePlatform.Models.Video", b =>
                 {
                     b.Property<int>("Id")
@@ -240,24 +258,28 @@ namespace TalentShowcasePlatform.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Category")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
 
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime2");
+                    b.Property<bool>("CommentsAllowed")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasMaxLength(500)
                         .HasColumnType("nvarchar(500)");
+
+                    b.Property<bool>("IsPublic")
+                        .HasColumnType("bit");
+
+                    b.Property<int>("Likes")
+                        .HasColumnType("int");
 
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasMaxLength(150)
                         .HasColumnType("nvarchar(150)");
 
-                    b.Property<DateTime>("UpdatedAt")
+                    b.Property<DateTime>("UploadDate")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Url")
@@ -267,7 +289,12 @@ namespace TalentShowcasePlatform.Migrations
                     b.Property<string>("UserId")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("Views")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("CategoryId");
 
                     b.ToTable("Videos");
                 });
@@ -321,6 +348,22 @@ namespace TalentShowcasePlatform.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("TalentShowcasePlatform.Models.Video", b =>
+                {
+                    b.HasOne("TalentShowcasePlatform.Models.Category", "Category")
+                        .WithMany("Videos")
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("TalentShowcasePlatform.Models.Category", b =>
+                {
+                    b.Navigation("Videos");
                 });
 #pragma warning restore 612, 618
         }

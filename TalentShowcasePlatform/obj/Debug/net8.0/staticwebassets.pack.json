@@ -245,16 +245,12 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\a3d01bad-b988-476e-bb4a-baf219a8888f.jpg",
-      "PackagePath": "staticwebassets\\videos\\a3d01bad-b988-476e-bb4a-baf219a8888f.jpg"
+      "Id": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\7f144676-0001-4fad-9d3f-09f8c5542089.mp4",
+      "PackagePath": "staticwebassets\\videos\\7f144676-0001-4fad-9d3f-09f8c5542089.mp4"
     },
     {
-      "Id": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\dbe02f2a-e936-4081-bccc-60a9b9d5a4c0.jpg",
-      "PackagePath": "staticwebassets\\videos\\dbe02f2a-e936-4081-bccc-60a9b9d5a4c0.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\e4049fbf-fc53-44d3-a532-eb871a02c33b.jpg",
-      "PackagePath": "staticwebassets\\videos\\e4049fbf-fc53-44d3-a532-eb871a02c33b.jpg"
+      "Id": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\wwwroot\\videos\\dbcb4190-cdea-4488-9926-e0a431dd822a.mp4",
+      "PackagePath": "staticwebassets\\videos\\dbcb4190-cdea-4488-9926-e0a431dd822a.mp4"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TalentShowcasePlatform.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
