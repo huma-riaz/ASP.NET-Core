@@ -18,6 +18,39 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult Movie()
+    {
+        return View();
+    }
+
+    public IActionResult Blog()
+    {
+        return View();
+    }
+
+    public IActionResult BlogDetails()
+    {
+        return View();
+    }
+
+    public IActionResult Celebrities()
+    {
+        return View();
+    }
+
+    public IActionResult MovieDetails()
+    {
+        return View();
+    }
+
+    public IActionResult TopMovies()
+    {
+        return View();
+    }
+
+
+
+
     public IActionResult Privacy()
     {
         return View();
