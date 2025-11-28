@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Talent Showcase Project/1.0.0": {
+        "runtime": {
+          "Talent Showcase Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Talent Showcase Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
