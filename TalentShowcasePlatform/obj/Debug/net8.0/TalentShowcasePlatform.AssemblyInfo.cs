@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalentShowcasePlatform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb1b7823d07e95c897f46790cc63c06b7ba856c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TalentShowcasePlatform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TalentShowcasePlatform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

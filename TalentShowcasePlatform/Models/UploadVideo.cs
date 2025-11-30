@@ -5,7 +5,9 @@ namespace TalentShowcasePlatform.Models
 {
     public class UploadVideo
     {
-        [Required(ErrorMessage = "Title is required")]
+        public int Id { get; set; }
+
+        [Required(ErrorMessage = "Title is required")]  
         public string Title { get; set; }
 
         [StringLength(500)]

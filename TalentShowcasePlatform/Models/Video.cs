@@ -20,7 +20,6 @@ namespace TalentShowcasePlatform.Models
         [Required]
         public string Url { get; set; }
 
-        // Foreign key to Category
         [Display(Name = "Category")]
         public int CategoryId { get; set; }
         public Category? Category { get; set; }
@@ -30,7 +29,6 @@ namespace TalentShowcasePlatform.Models
         public bool IsPublic { get; set; } = true;
         public bool CommentsAllowed { get; set; } = true;
 
-        public int Views { get; set; } = 0;
-        public int Likes { get; set; } = 0;
+       
     }
 }

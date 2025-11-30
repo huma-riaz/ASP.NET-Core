@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\TalentShowcasePlatform.csproj": {}
+    "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform\\TalentShowcasePlatform.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\TalentShowcasePlatform.csproj": {
+    "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform\\TalentShowcasePlatform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\TalentShowcasePlatform.csproj",
+        "projectUniqueName": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform\\TalentShowcasePlatform.csproj",
         "projectName": "TalentShowcasePlatform",
-        "projectPath": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\TalentShowcasePlatform.csproj",
+        "projectPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform\\TalentShowcasePlatform.csproj",
         "packagesPath": "C:\\Users\\Shahid F79\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform\\obj\\",
+        "outputPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

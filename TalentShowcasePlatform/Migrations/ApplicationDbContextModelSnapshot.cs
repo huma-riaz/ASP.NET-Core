@@ -271,9 +271,6 @@ namespace TalentShowcasePlatform.Migrations
                     b.Property<bool>("IsPublic")
                         .HasColumnType("bit");
 
-                    b.Property<int>("Likes")
-                        .HasColumnType("int");
-
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasMaxLength(150)
@@ -288,9 +285,6 @@ namespace TalentShowcasePlatform.Migrations
 
                     b.Property<string>("UserId")
                         .HasColumnType("nvarchar(max)");
-
-                    b.Property<int>("Views")
-                        .HasColumnType("int");
 
                     b.HasKey("Id");
 

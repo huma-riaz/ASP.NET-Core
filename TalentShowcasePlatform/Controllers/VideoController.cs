@@ -17,26 +17,21 @@ namespace TalentShowcasePlatform.Controllers
             _env = env;
         }
 
-        // GET: Upload Page
         public IActionResult Upload()
         {
             ViewBag.Categories = new SelectList(_context.Categories, "Id", "Name");
             return View();
         }
 
-        // POST: Handle Upload with UploadVideo ViewModel
         [HttpPost]
-        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Upload(UploadVideo model)
         {
-            // 1️⃣ Check form validation
-            if (!ModelState.IsValid)
-            {
-                ViewBag.Categories = new SelectList(_context.Categories, "Id", "Name", model.CategoryId);
-                return View(model);
-            }
+            //if (!ModelState.IsValid)
+            //{
+            //    ViewBag.Categories = new SelectList(_context.Categories, "Id", "Name", model.CategoryId);
+            //    return View(model);
+            //}
 
-            // 2️⃣ Save file to wwwroot/videos
             var uploadsFolder = Path.Combine(_env.WebRootPath, "videos");
             if (!Directory.Exists(uploadsFolder))
                 Directory.CreateDirectory(uploadsFolder);
@@ -49,9 +44,9 @@ namespace TalentShowcasePlatform.Controllers
                 await model.VideoFile.CopyToAsync(stream);
             }
 
-            // 3️⃣ Save video info to database using Video entity
             var video = new Video
             {
+                Id = model.Id, 
                 Title = model.Title,
                 Description = model.Description,
                 CategoryId = model.CategoryId,
@@ -84,7 +79,7 @@ namespace TalentShowcasePlatform.Controllers
                 return NotFound();
 
             var video = await _context.Videos
-                .Include(v => v.Category) // Category info load karne ke liye
+                .Include(v => v.Category) 
                 .FirstOrDefaultAsync(v => v.Id == id);
 
             if (video == null)
