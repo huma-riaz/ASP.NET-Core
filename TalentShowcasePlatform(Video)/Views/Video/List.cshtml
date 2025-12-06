@@ -1,0 +1,20 @@
+﻿@model IEnumerable<TalentShowcasePlatform.Models.Video>
+
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th>Category</th>
+        <th>Watch</th>
+    </tr>
+
+    @foreach (var v in Model)
+    {
+            <tr>
+                <td>@v.Title</td>
+                <td>@v.Category.Name</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@v.ID">Play</a>
+                </td>
+            </tr>
+    }
+</table>

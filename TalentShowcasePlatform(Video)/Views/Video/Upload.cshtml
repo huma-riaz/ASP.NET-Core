@@ -1,0 +1,20 @@
+﻿@model TalentShowcasePlatform.Models.Video
+
+<form asp-action="Upload" method="post" enctype="multipart/form-data">
+
+    <input asp-for="Title" class="form-control" placeholder="Title" />
+
+    <textarea asp-for="Description" class="form-control" placeholder="Description"></textarea>
+
+    <select asp-for="CategoryId" class="form-control">
+        @foreach (var c in ViewBag.Categories)
+        {
+                <option value="@c.Id">@c.Name</option>
+        }
+    </select>
+
+    <input type="file" name="file" class="form-control" />
+
+    <button type="submit" class="btn btn-success">Upload</button>
+
+</form>
