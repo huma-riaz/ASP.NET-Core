@@ -1,0 +1,48 @@
+﻿@model TalentShowcasePlatform.Models.Group
+
+<style>
+    .group-form-container{
+        max-width:600px;
+        margin:50px auto;
+        background:#fff;
+        padding:30px;
+        border-radius:10px;
+        box-shadow:0 0 15px rgba(0,0,0,0.1);
+    }
+
+    .group-form-container h2{
+        text-align:center;
+        margin-bottom:25px;
+        font-weight:bold;
+        letter-spacing:1px;
+        color:#0d6efd;
+    }
+
+    label{
+        font-weight:600;
+        margin-top:12px;
+        margin-bottom:6px;
+    }
+
+    button{
+        width:100%;
+        margin-top:20px;
+        font-weight:600;
+        padding:10px;
+        border-radius:8px;
+    }
+</style>
+
+<div class="group-form-container">
+    <h2>Create Group</h2>
+
+    <form method="post">
+        <label>Name</label>
+        <input name="Name" class="form-control" />
+
+        <label>Description</label>
+        <textarea name="Description" class="form-control"></textarea>
+
+        <button class="btn btn-success">Save</button>
+    </form>
+</div>

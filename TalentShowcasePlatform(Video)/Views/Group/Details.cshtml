@@ -1,0 +1,56 @@
+﻿@model TalentShowcasePlatform.Models.Group
+
+<style>
+    .group-details-container{
+        max-width:700px;
+        margin:50px auto;
+        background:#fff;
+        padding:35px;
+        border-radius:12px;
+        box-shadow:0 4px 15px rgba(0,0,0,0.1);
+    }
+
+    .group-details-container h2{
+        font-weight:700;
+        margin-bottom:10px;
+        color:#0d6efd;
+        letter-spacing:1px;
+    }
+
+    .group-details-container h4{
+        margin-top:25px;
+        font-weight:600;
+    }
+
+    .group-details-container p{
+        font-size:16px;
+        line-height:1.6;
+        margin-bottom:15px;
+        color:#444;
+    }
+
+    .group-btns{
+        margin-top:20px;
+        display:flex;
+        gap:10px;
+    }
+</style>
+
+
+<div class="group-details-container">
+    <h2>@Model.Name</h2>
+    <p>@Model.Description</p>
+
+    <h4>Members: @Model.Members.Count</h4>
+
+    <div class="group-btns">
+        <a class="btn btn-primary" href="/Group/Join/@Model.Id">Join</a>
+
+        <a class="btn btn-danger" 
+         href="/Group/Leave/@Model.Id"
+         onclick="return confirm('Are you sure, you want to leave this group?');">
+            Leave
+       </a>
+
+    </div>
+</div>

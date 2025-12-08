@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xfxl8wskf/Q=",
+  "dgSpecHash": "LjtIyMBPc+Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shahid F79\\Downloads\\TalentShowcasePlatform(Video)\\TalentShowcasePlatform.csproj",
+  "projectFilePath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\TalentShowcasePlatform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shahid F79\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Shahid F79\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
