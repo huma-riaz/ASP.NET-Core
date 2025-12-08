@@ -12,8 +12,10 @@ namespace TalentShowcasePlatform.Data
         }
         public DbSet<Video> Videos { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Group> Groups { get; set; }
+        public DbSet<GroupMember> GroupMembers { get; set; }
+
 
         // Future modules: Videos, Comments, Groups, etc.
-        // public DbSet<Video> Videos { get; set; }
     }
 }

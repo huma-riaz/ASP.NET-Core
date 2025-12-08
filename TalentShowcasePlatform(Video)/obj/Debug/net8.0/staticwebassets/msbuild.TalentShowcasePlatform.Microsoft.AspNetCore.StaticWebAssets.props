@@ -1116,5 +1116,113 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\4882cab1-395d-452e-ab48-98bd13556986.mp4'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\5a6b2f8a-3dc5-4473-9afc-c102e26bc609.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TalentShowcasePlatform</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TalentShowcasePlatform</BasePath>
+      <RelativePath>videos/5a6b2f8a-3dc5-4473-9afc-c102e26bc609.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>q6a10flb45</Fingerprint>
+      <Integrity>LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\5a6b2f8a-3dc5-4473-9afc-c102e26bc609.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\6c913b8e-4b24-4bb2-aebc-4af27241e05a.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TalentShowcasePlatform</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TalentShowcasePlatform</BasePath>
+      <RelativePath>videos/6c913b8e-4b24-4bb2-aebc-4af27241e05a.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>q6a10flb45</Fingerprint>
+      <Integrity>LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\6c913b8e-4b24-4bb2-aebc-4af27241e05a.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\c025b541-2d33-4324-83aa-9319d58cbc43.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TalentShowcasePlatform</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TalentShowcasePlatform</BasePath>
+      <RelativePath>videos/c025b541-2d33-4324-83aa-9319d58cbc43.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>q6a10flb45</Fingerprint>
+      <Integrity>LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\c025b541-2d33-4324-83aa-9319d58cbc43.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\d1ddc876-1fec-4b12-9426-8f27452b9c1a.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TalentShowcasePlatform</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TalentShowcasePlatform</BasePath>
+      <RelativePath>videos/d1ddc876-1fec-4b12-9426-8f27452b9c1a.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>q6a10flb45</Fingerprint>
+      <Integrity>LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\d1ddc876-1fec-4b12-9426-8f27452b9c1a.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\de10b810-2842-4516-b2cc-6b3f4324816e.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TalentShowcasePlatform</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TalentShowcasePlatform</BasePath>
+      <RelativePath>videos/de10b810-2842-4516-b2cc-6b3f4324816e.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>q6a10flb45</Fingerprint>
+      <Integrity>LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\de10b810-2842-4516-b2cc-6b3f4324816e.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\fb067ab7-e9b1-4960-9feb-d4939f24a5c3.mp4'))">
+      <SourceType>Package</SourceType>
+      <SourceId>TalentShowcasePlatform</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/TalentShowcasePlatform</BasePath>
+      <RelativePath>videos/fb067ab7-e9b1-4960-9feb-d4939f24a5c3.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>q6a10flb45</Fingerprint>
+      <Integrity>LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\fb067ab7-e9b1-4960-9feb-d4939f24a5c3.mp4'))</OriginalItemSpec>
+    </StaticWebAsset>
   </ItemGroup>
 </Project>

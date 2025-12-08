@@ -1,7 +1,7 @@
 ﻿@model TalentShowcasePlatform.Models.Video
 
 @{
-    ViewData["Title"] = "Upload Video";
+    ViewData["Title"] = "Edit Video";
 }
 
 <style>
@@ -18,10 +18,12 @@
 
 <div class="container mt-4">
 
-    <h2 class="page-title text-center mb-4">Upload Video</h2>
+    <h2 class="page-title text-center mb-4">Edit Video</h2>
 
     <div class="card shadow p-4">
-        <form asp-action="Upload" method="post" enctype="multipart/form-data">
+        <form asp-action="Edit" method="post" enctype="multipart/form-data">
+
+            <input type="hidden" asp-for="ID" />
 
             <div class="form-group mb-3">
                 <label asp-for="Title" class="form-label"></label>
@@ -37,17 +39,18 @@
             <div class="form-group mb-3">
                 <label asp-for="CategoryId" class="form-label">Category</label>
                 <select asp-for="CategoryId" class="form-control">
-                    <option value="" disabled selected>Select Category</option>
                     @foreach (var c in ViewBag.Categories)
                     {
-                            <option value="@c.Id">@c.Name</option>
+                            <option value="@c.Id" selected="@(c.Id == Model.CategoryId)">
+                            @c.Name
+                            </option>
                     }
                 </select>
                 <span asp-validation-for="CategoryId" class="text-danger"></span>
             </div>
 
             <div class="form-group mb-4">
-                <label class="form-label">Select Video File</label>
+                <label class="form-label">Replace Video File (optional)</label>
                 <input type="file" name="file" class="form-control" />
             </div>
 
@@ -66,8 +69,8 @@
             </div>
 
             <div class="text-center">
-                <button type="submit" class="btn btn-success px-5">
-                    Upload
+                <button type="submit" class="btn btn-primary px-5">
+                    Update
                 </button>
             </div>
 

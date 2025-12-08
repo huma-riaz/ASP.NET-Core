@@ -1,0 +1,9 @@
+﻿@model TalentShowcasePlatform.Models.Group
+
+<h2>@Model.Name</h2>
+<p>@Model.Description</p>
+
+<h4>Members: @Model.Members.Count</h4>
+
+<a class="btn btn-primary" href="/Groups/Join/@Model.Id">Join</a>
+<a class="btn btn-danger" href="/Groups/Leave/@Model.Id">Leave</a>
