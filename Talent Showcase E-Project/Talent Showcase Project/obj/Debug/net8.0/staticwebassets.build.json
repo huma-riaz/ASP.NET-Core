@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vOo93WT2SJ5FQhD6yZfUhjHcGlngRenpHHUdHL866Fg=",
+  "Hash": "815i6KFfKbXwwbsAW7thvjcWflzg+PCALqEDqIPEQM4=",
   "Source": "Talent Showcase Project",
   "BasePath": "_content/Talent Showcase Project",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Talent Showcase Project\\wwwroot",
       "Source": "Talent Showcase Project",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Talent Showcase Project.styles.css",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Talent Showcase Project.styles.css",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "Talent Showcase Project#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "HMbhFpawfhO3C2L9KL5gWey9FmipnPQaQjTNHhjFtX8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Talent Showcase Project.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Talent Showcase Project.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Talent Showcase Project.bundle.scp.css",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Talent Showcase Project.bundle.scp.css",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "Talent Showcase Project#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "HMbhFpawfhO3C2L9KL5gWey9FmipnPQaQjTNHhjFtX8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Talent Showcase Project.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Talent Showcase Project.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\icofont.css",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\icofont.css",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "css/icofont#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\icofont.css"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\magnific-popup.css",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\magnific-popup.css",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "css/magnific-popup#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\owl.carousel.css",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\owl.carousel.css",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "css/owl.carousel#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\owl.video.play.html",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\owl.video.play.html",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "css/owl.video.play#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.video.play.html"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\responsive.css",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "css/responsive#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\slicknav.min.css",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\slicknav.min.css",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "css/slicknav.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slicknav.min.css"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\style.css",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.eot",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.eot",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "fonts/icofont7858#[.{fingerprint}]?.eot",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icofont7858.eot"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.svg",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.svg",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "fonts/icofont7858#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icofont7858.svg"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.ttf",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.ttf",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "fonts/icofont7858#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icofont7858.ttf"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.woff",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.woff",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "fonts/icofont7858#[.{fingerprint}]?.woff",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\icofont7858.woff"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\author.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\author.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/author#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\img\\author.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\blog-detail.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\blog-detail.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/blog-detail#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog-detail.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\breadcrumb.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\breadcrumb.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/breadcrumb#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\breadcrumb.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast1.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast1.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/cast/cast1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cast\\cast1.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast2.html",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast2.html",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/cast/cast2#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cast\\cast2.html"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast3.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast3.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/cast/cast3#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cast\\cast3.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast4.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast4.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/cast/cast4#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cast\\cast4.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast5.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast5.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/cast/cast5#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cast\\cast5.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast6.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast6.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/cast/cast6#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cast\\cast6.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast7.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast7.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/cast/cast7#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cast\\cast7.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\favcion.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\favcion.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/favcion#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favcion.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\footer-bg.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\footer-bg.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/footer-bg#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\img\\footer-bg.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\hero-area.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\hero-area.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/hero-area#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\img\\hero-area.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\loader.gif",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\loader.gif",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/loader#[.{fingerprint}]?.gif",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\img\\loader.gif"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\logo.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\news\\news1.jpg",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\news\\news1.jpg",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/news/news1#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\img\\news\\news1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\news\\news2.jpg",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\news\\news2.jpg",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/news/news2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\img\\news\\news2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\news\\news3.jpg",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\news\\news3.jpg",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/news/news3#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\img\\news\\news3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio1.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio1.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/portfolio/portfolio1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio1.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio2.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio2.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/portfolio/portfolio2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio2.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio3.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio3.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/portfolio/portfolio3#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio3.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio4.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio4.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/portfolio/portfolio4#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio4.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio5.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio5.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/portfolio/portfolio5#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio5.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio6.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio6.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/portfolio/portfolio6#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\img\\portfolio\\portfolio6.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\select-icon.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\select-icon.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/select-icon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\select-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar1.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar1.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/sidebar/sidebar1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sidebar\\sidebar1.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar2.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar2.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/sidebar/sidebar2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sidebar\\sidebar2.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar3.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar3.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/sidebar/sidebar3#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sidebar\\sidebar3.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar4.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar4.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/sidebar/sidebar4#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sidebar\\sidebar4.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\slide1.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\slide1.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/slide1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\img\\slide1.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\slide2.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\slide2.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/slide2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\img\\slide2.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\slide3.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\slide3.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/slide3#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\img\\slide3.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\slide4.jpg",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\slide4.jpg",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/slide4#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\img\\slide4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video1.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video1.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/video/video1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\img\\video\\video1.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video2.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video2.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/video/video2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\img\\video\\video2.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video3.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video3.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/video/video3#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\img\\video\\video3.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video4.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video4.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/video/video4#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\img\\video\\video4.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video5.png",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video5.png",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "img/video/video5#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\img\\video\\video5.png"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\isotope.pkgd.min.js",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\isotope.pkgd.min.js",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "js/isotope.pkgd.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\js\\isotope.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "js/jquery.magnific-popup.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\jquery.min.js",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "js/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\jquery.slicknav.min.js",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\jquery.slicknav.min.js",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "js/jquery.slicknav.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.slicknav.min.js"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\main.js",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "js/main#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\owl.carousel.min.js",
       "SourceId": "Talent Showcase Project",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\",
       "BasePath": "_content/Talent Showcase Project",
       "RelativePath": "js/owl.carousel.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1259,7 +1259,7 @@
   "Endpoints": [
     {
       "Route": "css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1296,7 +1296,7 @@
     },
     {
       "Route": "css/bootstrap.min.ke2sc2w1o2.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1341,7 +1341,7 @@
     },
     {
       "Route": "css/icofont.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\icofont.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\icofont.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1378,7 +1378,7 @@
     },
     {
       "Route": "css/icofont.uquvltp63g.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\icofont.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\icofont.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1423,7 +1423,7 @@
     },
     {
       "Route": "css/magnific-popup.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\magnific-popup.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\magnific-popup.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1460,7 +1460,7 @@
     },
     {
       "Route": "css/magnific-popup.o1ikdnjsj3.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\magnific-popup.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\magnific-popup.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1505,7 +1505,7 @@
     },
     {
       "Route": "css/owl.carousel.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\owl.carousel.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\owl.carousel.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1542,7 +1542,7 @@
     },
     {
       "Route": "css/owl.carousel.whzqriqji7.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\owl.carousel.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\owl.carousel.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1587,7 +1587,7 @@
     },
     {
       "Route": "css/owl.video.play.html",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\owl.video.play.html",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\owl.video.play.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1624,7 +1624,7 @@
     },
     {
       "Route": "css/owl.video.play.yz92j3s3s1.html",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\owl.video.play.html",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\owl.video.play.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1669,7 +1669,7 @@
     },
     {
       "Route": "css/responsive.6jxp2vpd7e.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\responsive.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\responsive.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1714,7 +1714,7 @@
     },
     {
       "Route": "css/responsive.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\responsive.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\responsive.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1751,7 +1751,7 @@
     },
     {
       "Route": "css/slicknav.min.4hyglg1occ.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\slicknav.min.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\slicknav.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1796,7 +1796,7 @@
     },
     {
       "Route": "css/slicknav.min.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\slicknav.min.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\slicknav.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1833,7 +1833,7 @@
     },
     {
       "Route": "css/style.7hivp2wk2g.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\style.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1878,7 +1878,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\css\\style.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1915,7 +1915,7 @@
     },
     {
       "Route": "fonts/icofont7858.8miry4j1v0.woff",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.woff",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1960,7 +1960,7 @@
     },
     {
       "Route": "fonts/icofont7858.eot",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.eot",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1997,7 +1997,7 @@
     },
     {
       "Route": "fonts/icofont7858.gnyt2ix87t.ttf",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.ttf",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2042,7 +2042,7 @@
     },
     {
       "Route": "fonts/icofont7858.ot7u96348p.eot",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.eot",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.eot",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2087,7 +2087,7 @@
     },
     {
       "Route": "fonts/icofont7858.svg",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.svg",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2124,7 +2124,7 @@
     },
     {
       "Route": "fonts/icofont7858.ttf",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.ttf",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2161,7 +2161,7 @@
     },
     {
       "Route": "fonts/icofont7858.umv9f2cgsw.svg",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.svg",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2206,7 +2206,7 @@
     },
     {
       "Route": "fonts/icofont7858.woff",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.woff",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\fonts\\icofont7858.woff",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2243,7 +2243,7 @@
     },
     {
       "Route": "img/author.03xjesgeiy.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\author.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\author.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2288,7 +2288,7 @@
     },
     {
       "Route": "img/author.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\author.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\author.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2325,7 +2325,7 @@
     },
     {
       "Route": "img/blog-detail.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\blog-detail.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\blog-detail.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2362,7 +2362,7 @@
     },
     {
       "Route": "img/blog-detail.s3odhay3ol.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\blog-detail.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\blog-detail.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2407,7 +2407,7 @@
     },
     {
       "Route": "img/breadcrumb.9jbyeqryzk.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\breadcrumb.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\breadcrumb.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2452,7 +2452,7 @@
     },
     {
       "Route": "img/breadcrumb.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\breadcrumb.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\breadcrumb.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2489,7 +2489,7 @@
     },
     {
       "Route": "img/cast/cast1.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast1.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2526,7 +2526,7 @@
     },
     {
       "Route": "img/cast/cast1.q5m6mlqu36.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast1.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2571,7 +2571,7 @@
     },
     {
       "Route": "img/cast/cast2.1ddtshgrzr.html",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast2.html",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast2.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2616,7 +2616,7 @@
     },
     {
       "Route": "img/cast/cast2.html",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast2.html",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast2.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2653,7 +2653,7 @@
     },
     {
       "Route": "img/cast/cast3.p5hz5t8tp8.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast3.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2698,7 +2698,7 @@
     },
     {
       "Route": "img/cast/cast3.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast3.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2735,7 +2735,7 @@
     },
     {
       "Route": "img/cast/cast4.03xjesgeiy.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast4.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2780,7 +2780,7 @@
     },
     {
       "Route": "img/cast/cast4.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast4.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2817,7 +2817,7 @@
     },
     {
       "Route": "img/cast/cast5.5y5cwgfxjv.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast5.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast5.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2862,7 +2862,7 @@
     },
     {
       "Route": "img/cast/cast5.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast5.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast5.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2899,7 +2899,7 @@
     },
     {
       "Route": "img/cast/cast6.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast6.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast6.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2936,7 +2936,7 @@
     },
     {
       "Route": "img/cast/cast6.v29l0j7nqh.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast6.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast6.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2981,7 +2981,7 @@
     },
     {
       "Route": "img/cast/cast7.onu1ffnvgg.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast7.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast7.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3026,7 +3026,7 @@
     },
     {
       "Route": "img/cast/cast7.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast7.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\cast\\cast7.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3063,7 +3063,7 @@
     },
     {
       "Route": "img/favcion.erp0co5cld.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\favcion.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\favcion.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3108,7 +3108,7 @@
     },
     {
       "Route": "img/favcion.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\favcion.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\favcion.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3145,7 +3145,7 @@
     },
     {
       "Route": "img/footer-bg.iftn3gkjx5.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\footer-bg.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\footer-bg.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3190,7 +3190,7 @@
     },
     {
       "Route": "img/footer-bg.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\footer-bg.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\footer-bg.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3227,7 +3227,7 @@
     },
     {
       "Route": "img/hero-area.7pgl45359d.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\hero-area.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\hero-area.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3272,7 +3272,7 @@
     },
     {
       "Route": "img/hero-area.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\hero-area.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\hero-area.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3309,7 +3309,7 @@
     },
     {
       "Route": "img/loader.0pi4grlto7.gif",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\loader.gif",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\loader.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3354,7 +3354,7 @@
     },
     {
       "Route": "img/loader.gif",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\loader.gif",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\loader.gif",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3391,7 +3391,7 @@
     },
     {
       "Route": "img/logo.bx9uenonq2.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\logo.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3436,7 +3436,7 @@
     },
     {
       "Route": "img/logo.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\logo.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3473,7 +3473,7 @@
     },
     {
       "Route": "img/news/news1.djx9rta6b7.jpg",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\news\\news1.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\news\\news1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3518,7 +3518,7 @@
     },
     {
       "Route": "img/news/news1.jpg",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\news\\news1.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\news\\news1.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3555,7 +3555,7 @@
     },
     {
       "Route": "img/news/news2.dn99umw9p7.jpg",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\news\\news2.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\news\\news2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3600,7 +3600,7 @@
     },
     {
       "Route": "img/news/news2.jpg",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\news\\news2.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\news\\news2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3637,7 +3637,7 @@
     },
     {
       "Route": "img/news/news3.9jludtzey0.jpg",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\news\\news3.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\news\\news3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3682,7 +3682,7 @@
     },
     {
       "Route": "img/news/news3.jpg",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\news\\news3.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\news\\news3.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3719,7 +3719,7 @@
     },
     {
       "Route": "img/portfolio/portfolio1.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio1.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3756,7 +3756,7 @@
     },
     {
       "Route": "img/portfolio/portfolio1.rw1o26iqtr.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio1.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3801,7 +3801,7 @@
     },
     {
       "Route": "img/portfolio/portfolio2.eh2ov8wqw3.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio2.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3846,7 +3846,7 @@
     },
     {
       "Route": "img/portfolio/portfolio2.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio2.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3883,7 +3883,7 @@
     },
     {
       "Route": "img/portfolio/portfolio3.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio3.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3920,7 +3920,7 @@
     },
     {
       "Route": "img/portfolio/portfolio3.yspryfniy0.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio3.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3965,7 +3965,7 @@
     },
     {
       "Route": "img/portfolio/portfolio4.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio4.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4002,7 +4002,7 @@
     },
     {
       "Route": "img/portfolio/portfolio4.yuvlhwxpvx.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio4.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4047,7 +4047,7 @@
     },
     {
       "Route": "img/portfolio/portfolio5.3vqts2bu2g.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio5.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio5.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4092,7 +4092,7 @@
     },
     {
       "Route": "img/portfolio/portfolio5.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio5.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio5.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4129,7 +4129,7 @@
     },
     {
       "Route": "img/portfolio/portfolio6.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio6.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio6.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4166,7 +4166,7 @@
     },
     {
       "Route": "img/portfolio/portfolio6.zh7biecfed.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio6.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\portfolio\\portfolio6.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4211,7 +4211,7 @@
     },
     {
       "Route": "img/select-icon.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\select-icon.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\select-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4248,7 +4248,7 @@
     },
     {
       "Route": "img/select-icon.wrvoaql21r.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\select-icon.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\select-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4293,7 +4293,7 @@
     },
     {
       "Route": "img/sidebar/sidebar1.cji850r1su.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar1.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4338,7 +4338,7 @@
     },
     {
       "Route": "img/sidebar/sidebar1.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar1.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4375,7 +4375,7 @@
     },
     {
       "Route": "img/sidebar/sidebar2.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar2.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4412,7 +4412,7 @@
     },
     {
       "Route": "img/sidebar/sidebar2.qg1qvbjlee.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar2.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4457,7 +4457,7 @@
     },
     {
       "Route": "img/sidebar/sidebar3.fskuqxg2k8.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar3.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4502,7 +4502,7 @@
     },
     {
       "Route": "img/sidebar/sidebar3.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar3.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4539,7 +4539,7 @@
     },
     {
       "Route": "img/sidebar/sidebar4.jpvb4uwf7m.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar4.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4584,7 +4584,7 @@
     },
     {
       "Route": "img/sidebar/sidebar4.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar4.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\sidebar\\sidebar4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4621,7 +4621,7 @@
     },
     {
       "Route": "img/slide1.ewp5xl9l6b.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\slide1.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\slide1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4666,7 +4666,7 @@
     },
     {
       "Route": "img/slide1.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\slide1.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\slide1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4703,7 +4703,7 @@
     },
     {
       "Route": "img/slide2.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\slide2.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\slide2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4740,7 +4740,7 @@
     },
     {
       "Route": "img/slide2.vvky5lbjyi.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\slide2.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\slide2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4785,7 +4785,7 @@
     },
     {
       "Route": "img/slide3.e7ybwgls53.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\slide3.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\slide3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4830,7 +4830,7 @@
     },
     {
       "Route": "img/slide3.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\slide3.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\slide3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4867,7 +4867,7 @@
     },
     {
       "Route": "img/slide4.jpg",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\slide4.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\slide4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4904,7 +4904,7 @@
     },
     {
       "Route": "img/slide4.u43hh6h0tk.jpg",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\slide4.jpg",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\slide4.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4949,7 +4949,7 @@
     },
     {
       "Route": "img/video/video1.81ucjjnpl8.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video1.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4994,7 +4994,7 @@
     },
     {
       "Route": "img/video/video1.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video1.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5031,7 +5031,7 @@
     },
     {
       "Route": "img/video/video2.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video2.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5068,7 +5068,7 @@
     },
     {
       "Route": "img/video/video2.ylz8te0dca.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video2.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5113,7 +5113,7 @@
     },
     {
       "Route": "img/video/video3.ke6efg8el4.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video3.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5158,7 +5158,7 @@
     },
     {
       "Route": "img/video/video3.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video3.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video3.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5195,7 +5195,7 @@
     },
     {
       "Route": "img/video/video4.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video4.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5232,7 +5232,7 @@
     },
     {
       "Route": "img/video/video4.rq8qjp67ne.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video4.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video4.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5277,7 +5277,7 @@
     },
     {
       "Route": "img/video/video5.58do8xsxfp.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video5.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video5.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5322,7 +5322,7 @@
     },
     {
       "Route": "img/video/video5.png",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\img\\video\\video5.png",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\img\\video\\video5.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5359,7 +5359,7 @@
     },
     {
       "Route": "js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5396,7 +5396,7 @@
     },
     {
       "Route": "js/bootstrap.min.zt75f24h3r.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5441,7 +5441,7 @@
     },
     {
       "Route": "js/isotope.pkgd.min.dzg04ykqtt.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\isotope.pkgd.min.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\isotope.pkgd.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5486,7 +5486,7 @@
     },
     {
       "Route": "js/isotope.pkgd.min.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\isotope.pkgd.min.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\isotope.pkgd.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5523,7 +5523,7 @@
     },
     {
       "Route": "js/jquery.magnific-popup.min.9ugm0d1n88.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5568,7 +5568,7 @@
     },
     {
       "Route": "js/jquery.magnific-popup.min.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\jquery.magnific-popup.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5605,7 +5605,7 @@
     },
     {
       "Route": "js/jquery.min.c8qj17wcz0.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5650,7 +5650,7 @@
     },
     {
       "Route": "js/jquery.min.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5687,7 +5687,7 @@
     },
     {
       "Route": "js/jquery.slicknav.min.1myh2wgqf2.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\jquery.slicknav.min.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\jquery.slicknav.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5732,7 +5732,7 @@
     },
     {
       "Route": "js/jquery.slicknav.min.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\jquery.slicknav.min.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\jquery.slicknav.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5769,7 +5769,7 @@
     },
     {
       "Route": "js/main.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\main.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5806,7 +5806,7 @@
     },
     {
       "Route": "js/main.q5ogtf4txc.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\main.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5851,7 +5851,7 @@
     },
     {
       "Route": "js/owl.carousel.min.fdie9m09qq.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\owl.carousel.min.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\owl.carousel.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5896,7 +5896,7 @@
     },
     {
       "Route": "js/owl.carousel.min.js",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\wwwroot\\js\\owl.carousel.min.js",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\wwwroot\\js\\owl.carousel.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5933,7 +5933,7 @@
     },
     {
       "Route": "Talent Showcase Project.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Talent Showcase Project.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Talent Showcase Project.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5970,7 +5970,7 @@
     },
     {
       "Route": "Talent Showcase Project.k0l2nf9bb8.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Talent Showcase Project.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Talent Showcase Project.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6015,7 +6015,7 @@
     },
     {
       "Route": "Talent Showcase Project.k0l2nf9bb8.styles.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Talent Showcase Project.styles.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Talent Showcase Project.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6060,7 +6060,7 @@
     },
     {
       "Route": "Talent Showcase Project.styles.css",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Talent Showcase Project.styles.css",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Talent Showcase Project.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

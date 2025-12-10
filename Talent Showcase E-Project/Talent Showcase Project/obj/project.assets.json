@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\Talent Showcase Project.csproj",
+      "projectUniqueName": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\Talent Showcase Project.csproj",
       "projectName": "Talent Showcase Project",
-      "projectPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\Talent Showcase Project.csproj",
+      "projectPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\Talent Showcase Project.csproj",
       "packagesPath": "C:\\Users\\Shahid F79\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\Talent Showcase Project\\obj\\",
+      "outputPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -33,3 +33,38 @@ C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showca
 C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.pdb
 C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.genruntimeconfig.cache
 C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase Project\Talent Showcase Project\obj\Debug\net8.0\ref\Talent Showcase Project.dll
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\bin\Debug\net8.0\appsettings.json
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\bin\Debug\net8.0\Talent Showcase Project.staticwebassets.endpoints.json
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\bin\Debug\net8.0\Talent Showcase Project.staticwebassets.runtime.json
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\bin\Debug\net8.0\Talent Showcase Project.exe
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\bin\Debug\net8.0\Talent Showcase Project.deps.json
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\bin\Debug\net8.0\Talent Showcase Project.runtimeconfig.json
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\bin\Debug\net8.0\Talent Showcase Project.dll
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\bin\Debug\net8.0\Talent Showcase Project.pdb
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.AssemblyInfoInputs.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.AssemblyInfo.cs
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.csproj.CoreCompileInputs.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.RazorAssemblyInfo.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.RazorAssemblyInfo.cs
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.sourcelink.json
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\scopedcss\bundle\Talent Showcase Project.styles.css
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\scopedcss\projectbundle\Talent Showcase Project.bundle.scp.css
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\staticwebassets\msbuild.Talent Showcase Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\staticwebassets\msbuild.Talent Showcase Project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\staticwebassets\msbuild.build.Talent Showcase Project.props
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Talent Showcase Project.props
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Talent Showcase Project.props
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.dll
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\refint\Talent Showcase Project.dll
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.pdb
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\Talent Showcase Project.genruntimeconfig.cache
+C:\Users\Shahid F79\OneDrive\Desktop\HUMA RIAZ\HDSE-1\ASP.NET-Core\Talent Showcase E-Project\Talent Showcase Project\obj\Debug\net8.0\ref\Talent Showcase Project.dll

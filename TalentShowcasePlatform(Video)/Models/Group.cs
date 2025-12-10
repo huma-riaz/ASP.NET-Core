@@ -12,7 +12,6 @@ namespace TalentShowcasePlatform.Models
 
         public string Description { get; set; }
 
-        // many-to-many
         public List<GroupMember> Members { get; set; } = new();
     }
 

@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\talentshowcaseplatform(video)\\views\\group\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:views\\group\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\talentshowcaseplatform(video)\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\talentshowcaseplatform(video)\\views\\group\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:views\\group\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\talentshowcaseplatform(video)\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\talentshowcaseplatform(video)\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\talentshowcaseplatform(video)\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\talentshowcaseplatform(video)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\talentshowcaseplatform(video)\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\talentshowcaseplatform(video)\\views\\video\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475F3E92-8809-4323-907B-13920DB8E744}|TalentShowcasePlatform.csproj|solutionrelative:views\\video\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,39 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Views\\Group\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Group\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Views\\Group\\Details.cshtml",
-              "RelativeToolTip": "Views\\Group\\Details.cshtml",
-              "ViewState": "AgIAACIAAAAAAAAAAAAowCsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T10:35:30.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswB4AAAArAAAAAAAAAA==",
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "Controllers\\GroupController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAADwv3QAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T10:27:02.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Views\\Group\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Group\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Views\\Group\\Create.cshtml",
-              "RelativeToolTip": "Views\\Group\\Create.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowCQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T10:15:19.208Z",
+              "WhenOpened": "2025-12-10T09:27:15.449Z",
               "EditorCaption": ""
             },
             {
@@ -82,35 +49,36 @@
               "RelativeDocumentMoniker": "Views\\Group\\Index.cshtml",
               "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Views\\Group\\Index.cshtml",
               "RelativeToolTip": "Views\\Group\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-08T10:14:33.062Z",
+              "WhenOpened": "2025-12-10T09:23:35.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VideoController.cs",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "Controllers\\VideoController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:03:29.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GroupController.cs",
-              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Controllers\\GroupController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GroupController.cs",
-              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Controllers\\GroupController.cs",
-              "RelativeToolTip": "Controllers\\GroupController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T10:13:21.203Z",
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Views\\Video\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Video\\List.cshtml",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Views\\Video\\List.cshtml",
+              "RelativeToolTip": "Views\\Video\\List.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowC8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T09:02:40.84Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Models\\Group.cs",
-              "RelativeDocumentMoniker": "Models\\Group.cs",
-              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\Models\\Group.cs",
-              "RelativeToolTip": "Models\\Group.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T10:11:23.48Z"
             }
           ]
         }

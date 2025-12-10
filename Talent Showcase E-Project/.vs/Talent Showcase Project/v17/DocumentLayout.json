@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase Project\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{313CF5BD-2041-41FC-BE57-A45635027E5E}|Talent Showcase Project\\Talent Showcase Project.csproj|c:\\users\\shahid f79\\onedrive\\desktop\\huma riaz\\hdse-1\\asp.net-core\\talent showcase e-project\\talent showcase project\\views\\home\\topmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{313CF5BD-2041-41FC-BE57-A45635027E5E}|Talent Showcase Project\\Talent Showcase Project.csproj|solutionrelative:talent showcase project\\views\\home\\topmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TopMovies.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\Views\\Home\\TopMovies.cshtml",
+              "RelativeDocumentMoniker": "Talent Showcase Project\\Views\\Home\\TopMovies.cshtml",
+              "ToolTip": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\Talent Showcase E-Project\\Talent Showcase Project\\Views\\Home\\TopMovies.cshtml",
+              "RelativeToolTip": "Talent Showcase Project\\Views\\Home\\TopMovies.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-10T09:53:15.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

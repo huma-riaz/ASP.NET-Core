@@ -100,6 +100,24 @@ namespace TalentShowcasePlatform.Controllers
             return RedirectToAction("Details", new { id });
         }
 
+        // DELETE METHOD 
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+            var group = _context.Groups.Find(id);
+
+            if (group == null)
+            {
+                return NotFound();
+            }
+
+            _context.Groups.Remove(group);
+            _context.SaveChanges();
+
+            return RedirectToAction("Index");
+        }
+
+
 
     }
 }
