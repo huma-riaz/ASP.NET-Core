@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SmecU3YJRm+YYVJmL02Z4dHyE98uANpgHszYc+UR/EE=",
+  "Hash": "lZtw6WX4TxaJisExB9MI/L80XK4qPIBXFMB5Hg2pYCM=",
   "Source": "TalentShowcasePlatform",
   "BasePath": "_content/TalentShowcasePlatform",
   "Mode": "Default",
@@ -1361,6 +1361,27 @@
       "OriginalItemSpec": "wwwroot\\videos\\5a6b2f8a-3dc5-4473-9afc-c102e26bc609.mp4"
     },
     {
+      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\6496a3d2-3364-4a1d-ad6a-e25821a9b0aa.mp4",
+      "SourceId": "TalentShowcasePlatform",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\",
+      "BasePath": "_content/TalentShowcasePlatform",
+      "RelativePath": "videos/6496a3d2-3364-4a1d-ad6a-e25821a9b0aa#[.{fingerprint}]?.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q6a10flb45",
+      "Integrity": "LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\6496a3d2-3364-4a1d-ad6a-e25821a9b0aa.mp4"
+    },
+    {
       "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\6c913b8e-4b24-4bb2-aebc-4af27241e05a.mp4",
       "SourceId": "TalentShowcasePlatform",
       "SourceType": "Discovered",
@@ -1382,27 +1403,6 @@
       "OriginalItemSpec": "wwwroot\\videos\\6c913b8e-4b24-4bb2-aebc-4af27241e05a.mp4"
     },
     {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\c025b541-2d33-4324-83aa-9319d58cbc43.mp4",
-      "SourceId": "TalentShowcasePlatform",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\",
-      "BasePath": "_content/TalentShowcasePlatform",
-      "RelativePath": "videos/c025b541-2d33-4324-83aa-9319d58cbc43#[.{fingerprint}]?.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "q6a10flb45",
-      "Integrity": "LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\c025b541-2d33-4324-83aa-9319d58cbc43.mp4"
-    },
-    {
       "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\d1ddc876-1fec-4b12-9426-8f27452b9c1a.mp4",
       "SourceId": "TalentShowcasePlatform",
       "SourceType": "Discovered",
@@ -1422,27 +1422,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\videos\\d1ddc876-1fec-4b12-9426-8f27452b9c1a.mp4"
-    },
-    {
-      "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\de10b810-2842-4516-b2cc-6b3f4324816e.mp4",
-      "SourceId": "TalentShowcasePlatform",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\",
-      "BasePath": "_content/TalentShowcasePlatform",
-      "RelativePath": "videos/de10b810-2842-4516-b2cc-6b3f4324816e#[.{fingerprint}]?.mp4",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "q6a10flb45",
-      "Integrity": "LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\videos\\de10b810-2842-4516-b2cc-6b3f4324816e.mp4"
     },
     {
       "Identity": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\fb067ab7-e9b1-4960-9feb-d4939f24a5c3.mp4",
@@ -6716,6 +6695,88 @@
       ]
     },
     {
+      "Route": "videos/6496a3d2-3364-4a1d-ad6a-e25821a9b0aa.mp4",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\6496a3d2-3364-4a1d-ad6a-e25821a9b0aa.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6793748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 09:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="
+        }
+      ]
+    },
+    {
+      "Route": "videos/6496a3d2-3364-4a1d-ad6a-e25821a9b0aa.q6a10flb45.mp4",
+      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\6496a3d2-3364-4a1d-ad6a-e25821a9b0aa.mp4",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6793748"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/mp4"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 10 Dec 2025 09:14:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q6a10flb45"
+        },
+        {
+          "Name": "label",
+          "Value": "videos/6496a3d2-3364-4a1d-ad6a-e25821a9b0aa.mp4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="
+        }
+      ]
+    },
+    {
       "Route": "videos/6c913b8e-4b24-4bb2-aebc-4af27241e05a.mp4",
       "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\6c913b8e-4b24-4bb2-aebc-4af27241e05a.mp4",
       "Selectors": [],
@@ -6798,88 +6859,6 @@
       ]
     },
     {
-      "Route": "videos/c025b541-2d33-4324-83aa-9319d58cbc43.mp4",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\c025b541-2d33-4324-83aa-9319d58cbc43.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6793748"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 12:51:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="
-        }
-      ]
-    },
-    {
-      "Route": "videos/c025b541-2d33-4324-83aa-9319d58cbc43.q6a10flb45.mp4",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\c025b541-2d33-4324-83aa-9319d58cbc43.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6793748"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 12:51:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q6a10flb45"
-        },
-        {
-          "Name": "label",
-          "Value": "videos/c025b541-2d33-4324-83aa-9319d58cbc43.mp4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="
-        }
-      ]
-    },
-    {
       "Route": "videos/d1ddc876-1fec-4b12-9426-8f27452b9c1a.mp4",
       "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\d1ddc876-1fec-4b12-9426-8f27452b9c1a.mp4",
       "Selectors": [],
@@ -6954,88 +6933,6 @@
         {
           "Name": "label",
           "Value": "videos/d1ddc876-1fec-4b12-9426-8f27452b9c1a.mp4"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="
-        }
-      ]
-    },
-    {
-      "Route": "videos/de10b810-2842-4516-b2cc-6b3f4324816e.mp4",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\de10b810-2842-4516-b2cc-6b3f4324816e.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6793748"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 12:19:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="
-        }
-      ]
-    },
-    {
-      "Route": "videos/de10b810-2842-4516-b2cc-6b3f4324816e.q6a10flb45.mp4",
-      "AssetFile": "C:\\Users\\Shahid F79\\OneDrive\\Desktop\\HUMA RIAZ\\HDSE-1\\ASP.NET-Core\\TalentShowcasePlatform(Video)\\wwwroot\\videos\\de10b810-2842-4516-b2cc-6b3f4324816e.mp4",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6793748"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "video/mp4"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LmrOBah57q+8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 12:19:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q6a10flb45"
-        },
-        {
-          "Name": "label",
-          "Value": "videos/de10b810-2842-4516-b2cc-6b3f4324816e.mp4"
         },
         {
           "Name": "integrity",

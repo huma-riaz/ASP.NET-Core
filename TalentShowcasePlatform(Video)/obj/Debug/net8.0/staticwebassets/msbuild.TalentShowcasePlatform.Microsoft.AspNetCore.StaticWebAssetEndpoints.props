@@ -756,6 +756,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q6a10flb45"},{"Name":"integrity","Value":"sha256-LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="},{"Name":"label","Value":"_content/TalentShowcasePlatform/videos/5a6b2f8a-3dc5-4473-9afc-c102e26bc609.mp4"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6793748"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\u0022"},{"Name":"Last-Modified","Value":"Sun, 07 Dec 2025 10:12:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TalentShowcasePlatform/videos/6496a3d2-3364-4a1d-ad6a-e25821a9b0aa.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\6496a3d2-3364-4a1d-ad6a-e25821a9b0aa.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6793748"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\u0022"},{"Name":"Last-Modified","Value":"Wed, 10 Dec 2025 09:14:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/TalentShowcasePlatform/videos/6496a3d2-3364-4a1d-ad6a-e25821a9b0aa.q6a10flb45.mp4">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\6496a3d2-3364-4a1d-ad6a-e25821a9b0aa.mp4'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q6a10flb45"},{"Name":"integrity","Value":"sha256-LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="},{"Name":"label","Value":"_content/TalentShowcasePlatform/videos/6496a3d2-3364-4a1d-ad6a-e25821a9b0aa.mp4"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6793748"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\u0022"},{"Name":"Last-Modified","Value":"Wed, 10 Dec 2025 09:14:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/TalentShowcasePlatform/videos/6c913b8e-4b24-4bb2-aebc-4af27241e05a.mp4">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\6c913b8e-4b24-4bb2-aebc-4af27241e05a.mp4'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -768,18 +780,6 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q6a10flb45"},{"Name":"integrity","Value":"sha256-LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="},{"Name":"label","Value":"_content/TalentShowcasePlatform/videos/6c913b8e-4b24-4bb2-aebc-4af27241e05a.mp4"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6793748"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 06 Dec 2025 10:16:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/TalentShowcasePlatform/videos/c025b541-2d33-4324-83aa-9319d58cbc43.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\c025b541-2d33-4324-83aa-9319d58cbc43.mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6793748"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 06 Dec 2025 12:51:16 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/TalentShowcasePlatform/videos/c025b541-2d33-4324-83aa-9319d58cbc43.q6a10flb45.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\c025b541-2d33-4324-83aa-9319d58cbc43.mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q6a10flb45"},{"Name":"integrity","Value":"sha256-LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="},{"Name":"label","Value":"_content/TalentShowcasePlatform/videos/c025b541-2d33-4324-83aa-9319d58cbc43.mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6793748"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 06 Dec 2025 12:51:16 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/TalentShowcasePlatform/videos/d1ddc876-1fec-4b12-9426-8f27452b9c1a.mp4">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\d1ddc876-1fec-4b12-9426-8f27452b9c1a.mp4'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -791,18 +791,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q6a10flb45"},{"Name":"integrity","Value":"sha256-LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="},{"Name":"label","Value":"_content/TalentShowcasePlatform/videos/d1ddc876-1fec-4b12-9426-8f27452b9c1a.mp4"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6793748"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 06 Dec 2025 12:02:46 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/TalentShowcasePlatform/videos/de10b810-2842-4516-b2cc-6b3f4324816e.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\de10b810-2842-4516-b2cc-6b3f4324816e.mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6793748"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 06 Dec 2025 12:19:54 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/TalentShowcasePlatform/videos/de10b810-2842-4516-b2cc-6b3f4324816e.q6a10flb45.mp4">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\de10b810-2842-4516-b2cc-6b3f4324816e.mp4'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q6a10flb45"},{"Name":"integrity","Value":"sha256-LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y="},{"Name":"label","Value":"_content/TalentShowcasePlatform/videos/de10b810-2842-4516-b2cc-6b3f4324816e.mp4"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6793748"},{"Name":"Content-Type","Value":"video/mp4"},{"Name":"ETag","Value":"\u0022LmrOBah57q\u002B8MCfCVPylAigmbcXgBT8gv2vCpFVu17Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 06 Dec 2025 12:19:54 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/TalentShowcasePlatform/videos/fb067ab7-e9b1-4960-9feb-d4939f24a5c3.mp4">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\videos\fb067ab7-e9b1-4960-9feb-d4939f24a5c3.mp4'))</AssetFile>
